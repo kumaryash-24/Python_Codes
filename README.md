@@ -80,8 +80,6 @@ Contributions, suggestions, and feedback are always welcome! To contribute:
    ```
 5. Create a pull request to the original repository for review.
 
-Want ideas on what to contribute? Check out our [Issues](https://github.com/kumaryash-24/<repo-name>/issues) page for tasks or suggest your own enhancements!
-
 
 ---
 
