@@ -2,7 +2,7 @@
 
 Welcome to the **Python Codes Repository**! This repository is a curated collection of Python scripts and examples, ranging from basic programming concepts to advanced-level projects and algorithms.
 
---- 
+![](https://i.imgur.com/waxVImv.png)
 
 ## 📚 **Purpose**
 This repository is designed for:
@@ -10,7 +10,7 @@ This repository is designed for:
 - Intermediate programmers seeking to strengthen their skills.
 - Advanced developers looking for quick references or practice.
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ## 🗂 **Repository Structure**
 
@@ -34,7 +34,7 @@ The repository is organized into the following sections:
    - Web scraping
    - Machine learning and AI basics
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ## ✨ **Key Features**
 - 🌟 Beginner-friendly explanations and examples.
@@ -42,7 +42,7 @@ The repository is organized into the following sections:
 - 🛠 Practical applications like data analysis, web scraping, and more.
 - 📈 Regular updates with fresh and exciting content.
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ## 🚀 **How to Use**
 1. Clone the repository:
@@ -62,7 +62,7 @@ The repository is organized into the following sections:
 -->
 
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ## 🤝 **Contributions**
 Contributions, suggestions, and feedback are always welcome! To contribute:
@@ -81,7 +81,7 @@ Contributions, suggestions, and feedback are always welcome! To contribute:
 5. Create a pull request to the original repository for review.
 
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ## 🔮 **Future Updates**
 This repository will be regularly updated with:
@@ -96,7 +96,7 @@ Stay tuned for exciting additions like:
 
 ![Stay Tuned](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ## 🌟 **Why Contribute?**
 - Improve your Python skills.
@@ -104,7 +104,7 @@ Stay tuned for exciting additions like:
 - Gain open-source experience.
 - Get recognized for your contributions.
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ## 📧 **Contact**
 For any queries, feel free to reach out to me.
