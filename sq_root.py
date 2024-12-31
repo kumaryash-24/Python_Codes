@@ -5,6 +5,6 @@ print(res)
 # using function
 def sq():
     num1 = int(input("Enter a number: "))
-    res = num1 ** (1/2)
+    res = num1 ** (1/2) # or num1 ** (0.5)
     print(res)
 sq()
