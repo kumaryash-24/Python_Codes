@@ -13,6 +13,4 @@ def area_triangle():
     print("The Area of the Triangle is:", area)
 
 area_triangle()
-
-    
     
