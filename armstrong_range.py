@@ -25,4 +25,4 @@ for num in range(lower, upper + 1):
         temp //= 10 # removes the last digit
 
     if (num == sum):
-        print(num)
+        print(num) 
