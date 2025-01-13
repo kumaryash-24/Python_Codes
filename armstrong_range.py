@@ -7,7 +7,7 @@
 # 9^4 + 4^4 + 7^4 + 4^4 = 9474 (4 is the number of digits in 9474)
 # Note: All single-digit numbers (0-9) are Armstrong numbers. Example:
 # 1^1 = 1 → Armstrong number
-# 5^1 = 5 → Armstrong number
+# 5^1 = 5 → Armstrong number 
 # 9^1 = 9 → Armstrong number
 
 CODE:  👇👇👇👇
