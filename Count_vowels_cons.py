@@ -12,7 +12,7 @@ print("Total Consonants: ", cons)
  
 
 # for vowel only 
-a = input("Enter a Name: ")
+a = input("Enter a Name: ") 
 vowel = 0
 vowels_set = "aeiouAEIOU"
 
