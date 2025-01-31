@@ -9,7 +9,7 @@ for i in range(0, len(a)):
         cons = cons + 1
 print("Total Vowels: ", vowel)
 print("Total Consonants: ", cons)
-
+ 
 
 # for vowel only 
 a = input("Enter a Name: ")
