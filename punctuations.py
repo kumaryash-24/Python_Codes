@@ -9,3 +9,4 @@ for i in string:
         empty_str+=i
 
 print (empty_str)
+ 
