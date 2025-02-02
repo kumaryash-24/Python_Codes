@@ -10,3 +10,4 @@ for i in string:
 
 print (empty_str)
  
+ 
