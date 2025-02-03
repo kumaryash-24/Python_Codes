@@ -8,7 +8,7 @@ for i in range(1,n):
         max=arr[i] 
         
 print(max)
-
+ 
 #using user input:  👇👇👇👇👇
 arr = list(map(int, input("Enter numbers separated by spaces: ").split()))  # User inputs numbers
 max_value = arr[0]  # Assume the first element is the largest
