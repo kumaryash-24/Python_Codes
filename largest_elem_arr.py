@@ -9,6 +9,17 @@ for i in range(1,n):
         
 print(max)
 
+#using user input:  👇👇👇👇👇
+arr = list(map(int, input("Enter numbers separated by spaces: ").split()))  # User inputs numbers
+max_value = arr[0]  # Assume the first element is the largest
+
+for num in arr:  # Loop through each number in the list
+    if num > max_value:
+        max_value = num  # Update max_value if a bigger number is found
+
+print("Maximum value:", max_value)
+
+
 
 # using Python's built-in max() function:
 arr = [1, 2, 5, 8, 9]
