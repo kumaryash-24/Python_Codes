@@ -7,7 +7,7 @@ for num in arr:
         min_value = num  # Update min_value if a smaller number is found
  
 print("Smallest value:", min_value)
-
+ 
  
 # 2️⃣ Using min() (Easiest Method) 
   
