@@ -5,7 +5,7 @@ min_value = arr[0]  # Assume the first element is the smallest
 for num in arr:
     if num < min_value:
         min_value = num  # Update min_value if a smaller number is found
-
+ 
 print("Smallest value:", min_value)
 
 
