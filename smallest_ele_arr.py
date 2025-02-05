@@ -12,7 +12,7 @@ print("Smallest value:", min_value)
 # 2️⃣ Using min() (Easiest Method) 
  
 arr = list(map(int, input("Enter numbers separated by spaces: ").split()))
-print("Smallest value:", min(arr))
+print("Smallest value:", min(arr)) 
 
 
 # 3️⃣ Using sorted()
