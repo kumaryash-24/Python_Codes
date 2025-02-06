@@ -1,14 +1,23 @@
+arr = list(map(int, input("Enter numbers separated by spaces: ").split()))
 
-arr = [10, 13, 17, 11, 34, 21]
-first = math.inf
-second = math.inf
+sorted_arr = sorted(set(arr))  # Remove duplicates and sort
+if len(sorted_arr) < 2:
+    print("No second smallest element.")
+else:
+    print("Second smallest element:", sorted_arr[1])
 
-for i in range(0, len(arr)):  
-   if arr[i] < first:
-     first = arr[i]
- 
-for i in range(0, len(arr)):
-   if arr[i] != first and arr[i] < second:
-     second = arr[i]
 
-print(second)
+# using Function 👇👇👇👇
+def find_second_smallest(arr):
+    unique_sorted_arr = sorted(set(arr))  
+    
+    if len(unique_sorted_arr) < 2:  # Check if at least two unique numbers exist
+        return "No second smallest element."
+    
+    return unique_sorted_arr[1]  # Second smallest element
+
+
+arr = list(map(int, input("Enter numbers separated by spaces: ").split()))
+
+
+print("Second smallest element:", find_second_smallest(arr))
