@@ -12,7 +12,7 @@ for num in arr:
 
 print("Smallest value:", min_value)
 print("Largest value:", max_value)
-
+ 
 
 # 2️⃣ Using min() and max() (Easiest Method)
 arr = list(map(int, input("Enter numbers separated by spaces: ").split()))
