@@ -1,7 +1,7 @@
 # ASCII (American Standard Code for Information Interchange) 
 # is a character encoding standard that represents text 
 # using numeric codes from 0 to 127.
-
+ 
 # Example 1: Convert a character to its ASCII value using ord()
 #char = 'A'  # The character 'A'
 #ascii_value = ord(char)  # ASCII value of 'A' is 65
