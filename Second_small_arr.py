@@ -4,7 +4,7 @@ sorted_arr = sorted(set(arr))  # Remove duplicates and sort
 if len(sorted_arr) < 2:
     print("No second smallest element.")
 else:
-    print("Second smallest element:", sorted_arr[1])
+    print("Second smallest element:", sorted_arr[1]) # arr[1] bcz   second smallest element, which is always at index 1 in the sorted list.
 
 
 # using Function 👇👇👇👇
