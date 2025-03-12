@@ -10,7 +10,7 @@ for i in range(size):
             a[j], a[j+1] = a[j+1], a[j]
 
 print("Sorted List is: ")
-print(a) 
+print(a)    
 
 
 # using function
