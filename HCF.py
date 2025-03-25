@@ -1,4 +1,4 @@
-# HCF of Two Numbers
+ # HCF of Two Numbers
 # Here, in this section we will discuss how to find HCF of two numbers in python. HCF means (Highest Common Factor)
 # also known as GCD (Greatest Common Divisor).
      
