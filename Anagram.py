@@ -7,7 +7,7 @@
 # "hello" and "world" → ❌ Not an Anagram (different letters)  
   
     
-def is_anagram(str1,str2):
+def is_anagram(str1,str2):  
     return sorted(str1) == sorted(str2)
 
 wrd1 = "listen"
