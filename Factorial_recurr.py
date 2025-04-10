@@ -8,6 +8,6 @@ num = int(input("Enter a number: "))
 result = fact(num)
 print(f"The factorial of {num} is", result)
 
-
+   
 
 
