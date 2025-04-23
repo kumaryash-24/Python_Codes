@@ -1,4 +1,4 @@
-# Celcius to fahrenheit  = (C* 9/5) + 32
+ # Celcius to fahrenheit  = (C* 9/5) + 32
 
 celcius = int(input("Enter a temperature in Celsius: "))
 far = (celcius * (9/5)) + 32
