@@ -8,7 +8,7 @@ for i in range(size):
     for j in range(0,size-i-1):
         if(a[j] > a[j+1]):
             a[j], a[j+1] = a[j+1], a[j]
-    
+       
 print("Sorted List is: ")
 print(a)    
 
