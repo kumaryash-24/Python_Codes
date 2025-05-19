@@ -1,6 +1,6 @@
 # An anagram is when two words have the same letters but in a different order.
 
-# 🔹 Example:
+# 🔹 Example:       
    
 # "listen" and "silent" → ✅ Anagram (same letters, different order)                 
        
