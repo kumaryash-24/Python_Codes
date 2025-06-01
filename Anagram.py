@@ -2,7 +2,7 @@
 
 # 🔹 Example:       
        
-# "listen" and "silent" → ✅ Anagram (same letters, different order)                      
+# "listen" and "silent" → ✅ Anagram (same letters, different order)                          
                 
 # "hello" and "world" → ❌ Not an Anagram (different letters)                             
                        
