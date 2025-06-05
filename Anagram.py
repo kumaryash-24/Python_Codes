@@ -1,9 +1,9 @@
-# An anagram is when two words have the same letters but in a different order.
+ # An anagram is when two words have the same letters but in a different order.
 
 # 🔹 Example:       
        
 # "listen" and "silent" → ✅ Anagram (same letters, different order)                          
-                                                                             
+                                                                               
 # "hello" and "world" → ❌ Not an Anagram (different letters)                                 
                               
                              
