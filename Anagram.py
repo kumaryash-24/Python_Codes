@@ -8,7 +8,7 @@
                               
                              
 def is_anagram(str1,str2):      
-    return sorted(str1) == sorted(str2)  
+    return sorted(str1) == sorted(str2)       
                   
 wrd1 = "listen"
 wrd2 = "silent"
