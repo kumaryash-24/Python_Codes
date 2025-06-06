@@ -1,4 +1,4 @@
- # An anagram is when two words have the same letters but in a different order.
+  # An anagram is when two words have the same letters but in a different order.
 
 # 🔹 Example:       
        
