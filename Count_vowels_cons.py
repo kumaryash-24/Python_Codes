@@ -8,7 +8,7 @@ for i in range(0, len(a)):
     else:           
         cons = cons + 1  
 print("Total Vowels: ", vowel)
-print("Total Consonants: ", cons)    
+print("Total Consonants: ", cons)     
  
  
 # for vowel only 
