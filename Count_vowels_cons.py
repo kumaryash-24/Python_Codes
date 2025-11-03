@@ -6,7 +6,7 @@ for i in range(0, len(a)):
         a[i] == "A" or a[i] == "E" or a[i] == "I" or a[i] == "O" or a[i] == "U"):       
         vowel = vowel + 1   
     else:           
-        cons = cons + 1  
+        cons = cons + 1    
 print("Total Vowels: ", vowel)
 print("Total Consonants: ", cons)     
  
