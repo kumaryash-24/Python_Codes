@@ -5,7 +5,7 @@
 
 decimal = int(input("Enter a number here: "))     
 print("the conversion of decimal number", decimal, "is: ")         
-print(bin(decimal), "in binary") # prefix is 0b
+print(bin(decimal), "in binary") # prefix is 0b  
 print(oct(decimal), "in octal")  # prefix is O0          
 print(hex(decimal),"in hexadecimal") # prefix is 0x      
 
