@@ -3,7 +3,7 @@
 # Hexadecimal: A base-16 number system, using digits 0-9 and letters A-F, often used in programming for compact representation of binary data.
 
 
-decimal = int(input("Enter a number here: "))     
+decimal = int(input("Enter a number here: "))       
 print("the conversion of decimal number", decimal, "is: ")         
 print(bin(decimal), "in binary") # prefix is 0b  
 print(oct(decimal), "in octal")  # prefix is O0          
