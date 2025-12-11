@@ -9,4 +9,4 @@ print("The converted value is", far, "Fahrenheit")
           
 fahrenheit = float(input("Enter a temperature in fahrenheit: "))
 celcius = 5/9 * (fahrenheit-32)
-print("The converted value is", celcius, "Celcius")   
+print("The converted value is", celcius, "Celcius")     
