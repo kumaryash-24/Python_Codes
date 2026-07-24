@@ -1,6 +1,6 @@
 size = int(input("Enter a size of the list: "))
 a = []   
-for i in range(size):
+for i in range(size):  
     val = int(input("Enter a number: "))                    
     a.append(val)                            
                                                       
