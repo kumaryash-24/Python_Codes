@@ -1,4 +1,5 @@
 # ASCII (American Standard Code for Information Interchange) 
+# Reviewed and verified ASCII range notes.
 # is a character encoding standard that represents text 
 # using numeric codes from 0 to 127.
 # Note: ASCII values range from 0 to 127 in standard encoding.
