@@ -5,6 +5,7 @@
 # "listen" and "silent" → ✅ Anagram (same letters, different order)                          
                                                                                      
 # "hello" and "world" → ❌ Not an Anagram (different letters)                                                
+# Returns True if both strings contain the same characters.
                               
                                 
 def is_anagram(str1,str2):                 
