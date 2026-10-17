@@ -18,7 +18,7 @@
 # The transpose operation is commonly used in linear algebra, 
 # data manipulation, and machine learning applications.
 
-👇👇👇👇👇
+# 👇👇👇👇👇
 #Solution 1 Using for loop
 
 A = [[1,2,3],
