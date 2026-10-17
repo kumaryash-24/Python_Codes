@@ -10,7 +10,7 @@
 # 5^1 = 5 → Armstrong number 
 # 9^1 = 9 → Armstrong number
  
-CODE:  👇👇👇👇
+# CODE:  👇👇👇👇
 
 lower = int(input("Enter the lower range: "))
 upper = int(input("Enter the upper range: "))
