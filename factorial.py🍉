@@ -15,7 +15,7 @@
 # - Probability (permutations and combinations)
 # - Mathematical formulas and series expansions
 
-Code:----    👇👇👇👇👇👇
+# Code:----    👇👇👇👇👇👇
 
 # using loop
 num = int(input("Enter a number: "))
@@ -24,7 +24,7 @@ if (num < 0):
     print("factorial of negative number doesn't exist")
 if (num == 0):
     print("the factorial of 0 is", 1)
-if (num > 1):
+if (num >= 1):
     for i in range (1,num+1):
         fact = fact * i
     print(f"The  factorial of {num} is: ",fact)
