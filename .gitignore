@@ -1,0 +1,17 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated output (e.g. QR codes from Qr_code.py)
+qrcode.png
