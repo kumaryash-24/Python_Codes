@@ -21,7 +21,7 @@
 # - Special characters: Examples include '@' (64) and '#' (35)
 
 
-CODE 👇👇👇👇
+# CODE 👇👇👇👇
 char = (input("Enter a letter: "))
 print("The ASCII value of", char, "is", ord(char))
 
