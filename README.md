@@ -94,6 +94,7 @@ Stay tuned for exciting additions like:
 - 🎮 Python-based games.
 - 🧑‍💻 Real-world projects.
 - 🔍 Problem-solving challenges.
+- 🧵 Multithreading and concurrency examples.
 
 ![Stay Tuned](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
 
