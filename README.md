@@ -231,3 +231,6 @@ Last updated: 2026-10-18
 
 
 Last updated: 2026-10-19
+
+
+Last updated: 2026-10-22 — reviewed examples for clarity.
